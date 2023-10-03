@@ -1,4 +1,4 @@
-# Ensemble Technique: EasyVisa
+# Ensemble Techniques: EasyVisa
 
 
 ## Context
